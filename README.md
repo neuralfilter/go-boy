@@ -6,7 +6,7 @@ Gameboy emulator in Go
 - [ ] Write interpreter for gameboy cpu (some flavor of Z80 family, refer to http://marc.rawer.de/Gameboy/Docs/GBCPUman.pdf)
 - [ ] Design how hardware components will interact between CPU
 - [ ] Figure out how to output graphics (literally have no idea about this)
-- [ ] Figure out how to output sound (no idea about this either)
+- [ ] Figure out how to output sound (no idea about this either, https://gamedev.stackexchange.com/questions/62049/do-games-use-multiple-threads-to-play-music?)
 - [ ] Add a real time hex-editor, debugger, and if possible Ghidra integration for dynamic analysis
 
 
