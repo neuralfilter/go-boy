@@ -21,3 +21,4 @@ Project was inspired by the lack of tools to dynamically debug and mark RAM sect
 - https://blog.rekawek.eu/2017/02/09/coffee-gb/ (Some blog post about GB emulation)
 - http://www.emulator101.com/ (General tutorial on emulation)
 - http://imrannazar.com/GameBoy-Emulation-in-JavaScript (In JS, lol)
+- https://bitbucket.org/milosonator/stygiagb/src/master/ (in Python, same thing as above)
