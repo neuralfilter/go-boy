@@ -1,4 +1,4 @@
-# go-boy
+# gome-boy
 Gameboy emulator in Go 
 
 ## To-do
