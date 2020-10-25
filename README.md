@@ -22,3 +22,7 @@ Project was inspired by the lack of tools to dynamically debug and mark RAM sect
 - http://www.emulator101.com/ (General tutorial on emulation)
 - http://imrannazar.com/GameBoy-Emulation-in-JavaScript (In JS, lol)
 - https://bitbucket.org/milosonator/stygiagb/src/master/ (in Python, same thing as above)
+- https://medium.com/@raphaelstaebler/building-a-gameboy-from-scratch-part-2-the-cpu-d6986a5c6c74 (Technical blog on someone's experience writing an emulator)
+- https://news.ycombinator.com/item?id=21891182 (Some discussion about implementing an emualtor)
+- https://blog.ryanlevick.com/DMG-01/public/book/cpu/registers.html (Comprehensive blog on CPU emulation)
+- http://marc.rawer.de/Gameboy/Docs/GBCPUman.pdf (GPU CPU manual)
